@@ -1,0 +1,16 @@
+#rec_cont {
+	top: 3.2%;
+	left: 60.93%;
+	position: absolute;
+}
+
+#recTitle_cont {
+	top: 3.5%;
+	left: 45.75%;
+	position: absolute;
+}
+
+.no-print, .no-print *
+{
+    display: none !important;
+}

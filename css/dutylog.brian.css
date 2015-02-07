@@ -1,0 +1,46 @@
+#formbody {
+	padding-top: 150px;
+	position: static;
+	padding-bottom: 50px;
+}
+
+.control-label {
+	text-align: left;
+}
+
+#FormButtons {
+	top: 72.1%;
+	left: 78.28%;
+	position: fixed;
+
+}
+
+.moove {
+	left:-8%;
+}
+
+.fb {
+	font-size: 115%;
+	min-width: 125px;
+	min-height: 40px;
+	margin-top: 10px;
+
+}
+
+#rec_cont {
+	top: 22.7%;
+	left: 63.93%;
+	position: absolute;
+}
+
+#rec_cont2 {
+	top: 22.7%;
+	left: 62.83%;
+	position: absolute;
+}
+
+#recTitle_cont {
+	top: 24%;
+	left: 55.75%;
+	position: absolute;
+}

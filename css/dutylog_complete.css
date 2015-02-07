@@ -1,0 +1,56 @@
+#formbody {
+	padding-top: 150px;
+}
+
+p  
+{
+position: relative;
+top: 8px;
+}
+
+.control-label {
+	text-align: left;
+}
+
+.moove {
+	left:-8%;
+	text-align: justify;
+}
+
+#FormButtons {
+	top: 80%;
+	left: 78.28%;
+	position: fixed;
+}
+
+#rec_cont {
+	position: absolute;
+	z-index: 1;
+	left: 26.75%;
+	top: 0%;
+}
+
+#label-rec {
+	top: 100%;
+}
+
+#recipient {
+	width: 400px;
+	top: 32%;
+	left: 50%;
+}
+
+.fb {
+	font-size: 115%;
+	min-width: 125px;
+	min-height: 40px;
+	margin-top: 10px;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}

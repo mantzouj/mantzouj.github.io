@@ -1,0 +1,88 @@
+#formbody {
+	padding-top: 150px;
+	position: static;
+	padding-bottom: 50px;
+}
+
+.control-label {
+	text-align: left;
+}
+
+#FormButtons {
+	top: 90%;
+	left: 78.28%;
+	position: fixed;
+
+}
+
+#form {
+	text-align: left;
+
+}
+
+h1
+{
+font-weight: bold;
+font-size: 120%;
+}
+
+h2
+{
+font-size: 110%;
+}
+.radio_button
+{
+position: relative;
+top:8px;
+left:14%;
+margin-right:75px;
+}
+
+.opt1
+{
+font-weight: bold;
+position: relative;
+left: 140px;
+text-align: left;
+}
+
+.opt2
+{
+font-weight: bold;
+position: relative;
+left: 180px;
+text-align: left;
+
+}
+
+.opt3
+{
+font-weight: bold;
+position: relative;
+left: 215px;
+text-align: left;
+
+}
+
+.fb {
+	font-size: 115%;
+	min-width: 125px;
+	min-height: 40px;
+	margin-top: 10px;
+
+}
+
+#rec_cont {
+	position: absolute;
+	z-index: 1;
+	left: 16.1%;
+	top: 0%;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}

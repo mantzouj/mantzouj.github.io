@@ -1,0 +1,42 @@
+#calendar {
+	padding-top: 150px;
+}
+
+#display
+{
+color: white;
+height: 450px; 
+size: 20px;
+background: linear-gradient(rgb(67,37,74), #531E69);
+border-style: none;
+padding-top: 20px;
+-webkit-box-shadow: 10px 10px 26px 0px rgba(0,0,0,0.7);
+-moz-box-shadow: 10px 10px 26px 0px rgba(0,0,0,0.7);
+box-shadow: 10px 10px 26px 0px rgba(0,0,0,0.7);
+text-align:left;
+}
+
+p
+{
+font-size: 150%;
+text-align:center; 
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+span
+{
+font-weight:bold;
+font-size: 110% 
+}
+
+.cal_link
+{
+color:white;
+}
+
+.cal_link:hover
+{
+color:#16C0FF;
+text-decoration:none;
+} 
